@@ -1,6 +1,6 @@
 package Module;
 
-public class Bot {
+public class Bot{
     BotDifficulityLevel botDifficulityLevel;
 
 }

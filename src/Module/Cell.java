@@ -8,4 +8,10 @@ public class Cell {
     private Player player;
     private CellState cellState;
 
+    public void cell(int row , int col ){
+        this.cellState = cellState;
+    }
+
+
+
 }
